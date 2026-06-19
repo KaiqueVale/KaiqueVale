@@ -58,9 +58,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaiqueVale/Kaique-do-Vale/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueVale/Kaique-do-Vale/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/KaiqueVale/Kaique-do-Vale/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaiqueVale/KaiqueVale/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaiqueVale/KaiqueVale/output/github-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/KaiqueVale/KaiqueVale/output/github-snake.svg" />
   </picture>
 </p>
 
