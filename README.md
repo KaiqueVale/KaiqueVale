@@ -21,7 +21,7 @@
     * **Stack:** Node.js, Express, Docker, MySQL.
     * **O que eu fiz:** Participei da construção da API do provedor. Trabalhei na criação de rotas protegidas (JWT) para clientes e administradores, lógica de planos/faturas e na organização da estrutura da API para garantir um funcionamento estável.
     
-* **💈 Point Barbearia (API de Gestão):** 
+* **💈 Point do barbeiro (API de Gestão):** 
     * **Stack:** Python, Django REST Framework, PostgreSQL, Docker.
     * **O que eu fiz:** Desenvolvimento do backend para gestão da barbearia. Ajudei a implementar a autenticação de usuários, separação de permissões (Dono vs. Barbeiro), agendamentos e o uso básico de GitHub Actions para automatizar algumas tarefas do repositório.
 
